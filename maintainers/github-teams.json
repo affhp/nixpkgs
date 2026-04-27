@@ -41,6 +41,7 @@
     "description": "Maintenance of https://bazel.build/ and related packages",
     "id": 5468470,
     "maintainers": {
+      "Profpatsch": 3153638
     },
     "members": {
       "aherrmann": 732652,
@@ -213,7 +214,6 @@
       "fulsomenko": 14945057,
       "gador": 1883533,
       "griff": 4368,
-      "groodt": 343415,
       "gshpychka": 23005347,
       "hexagonal-sun": 222664,
       "heywoodlh": 18178614,
